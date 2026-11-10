@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "anspruch",
+    "de": "der Anspruch",
+    "tr": "talep hakkı",
+    "article": "der",
+    "word": "Anspruch",
+    "plural": "Ansprüche",
+    "type": "isim",
+    "category": "allgemein",
+    "level": "B2",
+    "definitionDE": "Das Recht, von jemandem ein Tun oder Unterlassen zu verlangen.",
+    "definitionTR": "Bir kişiden bir davranışın yapılmasını veya yapılmamasını isteme yetkisi.",
+    "examples": [
+      {
+        "de": "Der Anspruch ergibt sich aus dem Vertrag.",
+        "tr": "Talep hakkı sözleşmeden doğar."
+      },
+      {
+        "de": "Der Anspruch ist möglicherweise verjährt.",
+        "tr": "Talep hakkı zamanaşımına uğramış olabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "urteil",
+    "de": "das Urteil",
+    "tr": "hüküm; mahkeme kararı",
+    "article": "das",
+    "word": "Urteil",
+    "plural": "Urteile",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B1",
+    "definitionDE": "Eine gerichtliche Entscheidung, die einen Rechtsstreit ganz oder teilweise beendet.",
+    "definitionTR": "Uyuşmazlığı tamamen veya kısmen sona erdiren mahkeme kararı.",
+    "examples": [
+      {
+        "de": "Das Gericht verkündet morgen das Urteil.",
+        "tr": "Mahkeme yarın hükmü açıklayacak."
+      },
+      {
+        "de": "Gegen das Urteil kann Berufung eingelegt werden.",
+        "tr": "Karara karşı istinaf yoluna başvurulabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "klage",
+    "de": "die Klage",
+    "tr": "dava",
+    "article": "die",
+    "word": "Klage",
+    "plural": "Klagen",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B1",
+    "definitionDE": "Ein Antrag, mit dem gerichtlicher Rechtsschutz begehrt wird.",
+    "definitionTR": "Mahkemeden hukuki koruma talebinde bulunulmasını sağlayan usul işlemi.",
+    "examples": [
+      {
+        "de": "Die Klägerin erhebt Klage gegen den Beklagten.",
+        "tr": "Davacı, davalıya karşı dava açar."
+      },
+      {
+        "de": "Das Gericht hat die Klage abgewiesen.",
+        "tr": "Mahkeme davayı reddetti."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "klager",
+    "de": "der Kläger",
+    "tr": "davacı",
+    "article": "der",
+    "word": "Kläger",
+    "plural": "Kläger",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B1",
+    "definitionDE": "Die Person, die eine Klage erhebt.",
+    "definitionTR": "Davayı açan kişi.",
+    "examples": [
+      {
+        "de": "Der Kläger trägt seine Forderung vor.",
+        "tr": "Davacı talebini ileri sürer."
+      },
+      {
+        "de": "Der Kläger beantragt Schadensersatz.",
+        "tr": "Davacı tazminat talep eder."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "beklagte",
+    "de": "der Beklagte",
+    "tr": "davalı",
+    "article": "der",
+    "word": "Beklagte",
+    "plural": "Beklagten",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B1",
+    "definitionDE": "Die Person, gegen die eine Klage gerichtet ist.",
+    "definitionTR": "Davanın yöneltildiği kişi.",
+    "examples": [
+      {
+        "de": "Der Beklagte bestreitet den Anspruch.",
+        "tr": "Davalı talep hakkını kabul etmez."
+      },
+      {
+        "de": "Der Beklagte erhält die Klageschrift.",
+        "tr": "Davalıya dava dilekçesi tebliğ edilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "gericht",
+    "de": "das Gericht",
+    "tr": "mahkeme",
+    "article": "das",
+    "word": "Gericht",
+    "plural": "Gerichte",
+    "type": "isim",
+    "category": "allgemein",
+    "level": "A2",
+    "definitionDE": "Eine staatliche Stelle, die Recht spricht.",
+    "definitionTR": "Yargı yetkisini kullanan devlet organı.",
+    "examples": [
+      {
+        "de": "Das Gericht prüft die Beweise.",
+        "tr": "Mahkeme delilleri inceler."
+      },
+      {
+        "de": "Das Gericht entscheidet über den Antrag.",
+        "tr": "Mahkeme başvuru hakkında karar verir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "vertrag",
+    "de": "der Vertrag",
+    "tr": "sözleşme",
+    "article": "der",
+    "word": "Vertrag",
+    "plural": "Verträge",
+    "type": "isim",
+    "category": "vertrag",
+    "level": "A2",
+    "definitionDE": "Eine rechtlich relevante Einigung von mindestens zwei Parteien.",
+    "definitionTR": "En az iki tarafın hukuken sonuç doğuran irade uyuşması.",
+    "examples": [
+      {
+        "de": "Die Parteien schließen einen Vertrag.",
+        "tr": "Taraflar bir sözleşme akdeder."
+      },
+      {
+        "de": "Der Vertrag ist wirksam.",
+        "tr": "Sözleşme geçerlidir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "haftung",
+    "de": "die Haftung",
+    "tr": "hukuki sorumluluk",
+    "article": "die",
+    "word": "Haftung",
+    "plural": "—",
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B2",
+    "definitionDE": "Die rechtliche Verantwortung für eine Pflichtverletzung oder einen Schaden.",
+    "definitionTR": "Borç ihlali veya zarar gibi durumlarda doğabilen hukuki sorumluluk.",
+    "examples": [
+      {
+        "de": "Die Haftung hängt vom Einzelfall ab.",
+        "tr": "Sorumluluk somut olayın koşullarına bağlıdır."
+      },
+      {
+        "de": "Die Haftung des Unternehmens wird geprüft.",
+        "tr": "Şirketin sorumluluğu inceleniyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "verjahrung",
+    "de": "die Verjährung",
+    "tr": "zamanaşımı",
+    "article": "die",
+    "word": "Verjährung",
+    "plural": "—",
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B2",
+    "definitionDE": "Der Ablauf einer Frist, der insbesondere die Durchsetzbarkeit eines Anspruchs beeinflussen kann.",
+    "definitionTR": "Sürenin dolmasıyla bir talep hakkının ileri sürülebilirliğini etkileyebilen hukuki kurum.",
+    "examples": [
+      {
+        "de": "Der Schuldner beruft sich auf Verjährung.",
+        "tr": "Borçlu zamanaşımı savunmasında bulunur."
+      },
+      {
+        "de": "Die Verjährung beginnt nicht immer mit Vertragsschluss.",
+        "tr": "Zamanaşımı her zaman sözleşmenin kurulmasıyla başlamaz."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "eigentum",
+    "de": "das Eigentum",
+    "tr": "mülkiyet",
+    "article": "das",
+    "word": "Eigentum",
+    "plural": "—",
+    "type": "isim",
+    "category": "sachen",
+    "level": "B1",
+    "definitionDE": "Das umfassende dingliche Recht an einer Sache im gesetzlichen Rahmen.",
+    "definitionTR": "Bir eşya üzerinde kanunun sınırları içindeki kapsamlı ayni hak.",
+    "examples": [
+      {
+        "de": "Das Eigentum an dem Grundstück geht über.",
+        "tr": "Taşınmazın mülkiyeti devredilir."
+      },
+      {
+        "de": "Eigentum und Besitz sind zu unterscheiden.",
+        "tr": "Mülkiyet ve zilyetlik birbirinden ayrılmalıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "besitz",
+    "de": "der Besitz",
+    "tr": "zilyetlik",
+    "article": "der",
+    "word": "Besitz",
+    "plural": "—",
+    "type": "isim",
+    "category": "sachen",
+    "level": "B1",
+    "definitionDE": "Die tatsächliche Sachherrschaft über eine Sache.",
+    "definitionTR": "Bir eşya üzerinde fiilî hâkimiyet.",
+    "examples": [
+      {
+        "de": "Der Besitz wurde auf den Käufer übertragen.",
+        "tr": "Zilyetlik alıcıya devredildi."
+      },
+      {
+        "de": "Besitz bedeutet nicht automatisch Eigentum.",
+        "tr": "Zilyetlik kendiliğinden mülkiyet anlamına gelmez."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "willenserklarung",
+    "de": "die Willenserklärung",
+    "tr": "irade beyanı",
+    "article": "die",
+    "word": "Willenserklärung",
+    "plural": "Willenserklärungen",
+    "type": "isim",
+    "category": "zivil",
+    "level": "B2",
+    "definitionDE": "Die Äußerung eines auf eine Rechtsfolge gerichteten Willens.",
+    "definitionTR": "Hukuki sonuç doğurmaya yönelen iradenin dışa açıklanması.",
+    "examples": [
+      {
+        "de": "Eine Willenserklärung kann anfechtbar sein.",
+        "tr": "Bir irade beyanı iptal edilebilir nitelikte olabilir."
+      },
+      {
+        "de": "Die Erklärung muss dem Empfänger zugehen.",
+        "tr": "Beyanın muhataba ulaşması gerekir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "anfechtung",
+    "de": "die Anfechtung",
+    "tr": "iptal; irade beyanının iptali",
+    "article": "die",
+    "word": "Anfechtung",
+    "plural": "Anfechtungen",
+    "type": "isim",
+    "category": "zivil",
+    "level": "C1",
+    "definitionDE": "Die Beseitigung einer Willenserklärung unter gesetzlichen Voraussetzungen.",
+    "definitionTR": "Kanunda öngörülen nedenlerle irade beyanının geçersiz hâle getirilmesine yönelik işlem.",
+    "examples": [
+      {
+        "de": "Die Anfechtung erfolgt wegen Irrtums.",
+        "tr": "İptal işlemi yanılma nedeniyle yapılır."
+      },
+      {
+        "de": "Die Frist für die Anfechtung ist zu beachten.",
+        "tr": "İptal süresine dikkat edilmelidir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "kundigung",
+    "de": "die Kündigung",
+    "tr": "fesih bildirimi",
+    "article": "die",
+    "word": "Kündigung",
+    "plural": "Kündigungen",
+    "type": "isim",
+    "category": "arbeits",
+    "level": "B1",
+    "definitionDE": "Die einseitige Erklärung zur Beendigung eines Dauerschuldverhältnisses.",
+    "definitionTR": "Sürekli borç ilişkisini sona erdirmeye yönelik tek taraflı beyan.",
+    "examples": [
+      {
+        "de": "Die Kündigung muss schriftlich erfolgen.",
+        "tr": "Fesih bildirimi yazılı yapılmalıdır."
+      },
+      {
+        "de": "Der Arbeitnehmer erhält eine Kündigung.",
+        "tr": "Çalışana fesih bildirimi ulaşır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "schadensersatz",
+    "de": "der Schadensersatz",
+    "tr": "tazminat",
+    "article": "der",
+    "word": "Schadensersatz",
+    "plural": "—",
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B2",
+    "definitionDE": "Ein Ausgleich für einen rechtlich zurechenbaren Schaden.",
+    "definitionTR": "Hukuken sorumluluğu doğan zararın giderimi.",
+    "examples": [
+      {
+        "de": "Die Geschädigte verlangt Schadensersatz.",
+        "tr": "Zarar gören kişi tazminat talep ediyor."
+      },
+      {
+        "de": "Der Schadensersatz wird gerichtlich geltend gemacht.",
+        "tr": "Tazminat mahkemede talep ediliyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "beweislast",
+    "de": "die Beweislast",
+    "tr": "ispat yükü",
+    "article": "die",
+    "word": "Beweislast",
+    "plural": "—",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B2",
+    "definitionDE": "Die Last, eine streitige Tatsache bei fehlendem Beweis zu tragen.",
+    "definitionTR": "İspatlanamayan bir vakıanın olumsuz sonucuna katlanma yükü.",
+    "examples": [
+      {
+        "de": "Die Beweislast liegt grundsätzlich beim Anspruchsteller.",
+        "tr": "İspat yükü kural olarak talepte bulunan kişidedir."
+      },
+      {
+        "de": "Das Gesetz kann die Beweislast umkehren.",
+        "tr": "Kanun ispat yükünü tersine çevirebilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "rechtsfahigkeit",
+    "de": "die Rechtsfähigkeit",
+    "tr": "hak ehliyeti",
+    "article": "die",
+    "word": "Rechtsfähigkeit",
+    "plural": "—",
+    "type": "isim",
+    "category": "zivil",
+    "level": "B2",
+    "definitionDE": "Die Fähigkeit, Träger von Rechten und Pflichten zu sein.",
+    "definitionTR": "Haklara ve borçlara sahip olabilme ehliyeti.",
+    "examples": [
+      {
+        "de": "Die Rechtsfähigkeit beginnt mit der Vollendung der Geburt.",
+        "tr": "Hak ehliyeti doğumun tamamlanmasıyla başlar."
+      },
+      {
+        "de": "Auch juristische Personen besitzen Rechtsfähigkeit.",
+        "tr": "Tüzel kişiler de hak ehliyetine sahiptir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "geschaftsfahigkeit",
+    "de": "die Geschäftsfähigkeit",
+    "tr": "fiil ehliyeti; hukuki işlem ehliyeti",
+    "article": "die",
+    "word": "Geschäftsfähigkeit",
+    "plural": "—",
+    "type": "isim",
+    "category": "zivil",
+    "level": "B2",
+    "definitionDE": "Die Fähigkeit, Rechtsgeschäfte selbst wirksam vorzunehmen.",
+    "definitionTR": "Kişinin hukuki işlemleri kendi iradesiyle geçerli biçimde yapabilme ehliyeti.",
+    "examples": [
+      {
+        "de": "Die Geschäftsfähigkeit ist altersabhängig geregelt.",
+        "tr": "Hukuki işlem ehliyeti yaşa bağlı olarak düzenlenmiştir."
+      },
+      {
+        "de": "Das Gericht prüft die Geschäftsfähigkeit.",
+        "tr": "Mahkeme hukuki işlem ehliyetini inceler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "rechtskraft",
+    "de": "die Rechtskraft",
+    "tr": "kesin hüküm niteliği; kesinleşme",
+    "article": "die",
+    "word": "Rechtskraft",
+    "plural": "—",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "C1",
+    "definitionDE": "Die rechtliche Unanfechtbarkeit einer gerichtlichen Entscheidung im maßgeblichen Umfang.",
+    "definitionTR": "Mahkeme kararının ilgili kapsamda olağan yollarla değiştirilemez duruma gelmesi.",
+    "examples": [
+      {
+        "de": "Das Urteil ist rechtskräftig geworden.",
+        "tr": "Hüküm kesinleşti."
+      },
+      {
+        "de": "Die Rechtskraft ist vom Vollstreckungstitel zu unterscheiden.",
+        "tr": "Kesinleşme ile icra edilebilirlik belgesi birbirinden ayrılmalıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "berufung",
+    "de": "die Berufung",
+    "tr": "istinaf; kanun yolu başvurusu",
+    "article": "die",
+    "word": "Berufung",
+    "plural": "Berufungen",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B2",
+    "definitionDE": "Ein Rechtsmittel gegen bestimmte erstinstanzliche Entscheidungen.",
+    "definitionTR": "Belirli ilk derece mahkemesi kararlarına karşı başvurulan kanun yolu.",
+    "examples": [
+      {
+        "de": "Die Partei legt Berufung ein.",
+        "tr": "Taraf istinaf başvurusunda bulunur."
+      },
+      {
+        "de": "Das Berufungsgericht überprüft die Entscheidung.",
+        "tr": "İstinaf mahkemesi kararı inceler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "vollstreckung",
+    "de": "die Vollstreckung",
+    "tr": "icra; cebrî icra",
+    "article": "die",
+    "word": "Vollstreckung",
+    "plural": "Vollstreckungen",
+    "type": "isim",
+    "category": "zivilprozess",
+    "level": "B2",
+    "definitionDE": "Die zwangsweise Durchsetzung eines titulierten Anspruchs.",
+    "definitionTR": "Bir icra dayanağına bağlı talebin zorla yerine getirilmesi.",
+    "examples": [
+      {
+        "de": "Die Vollstreckung setzt einen Titel voraus.",
+        "tr": "İcra işlemi bir icra dayanağı gerektirir."
+      },
+      {
+        "de": "Der Gläubiger beantragt die Vollstreckung.",
+        "tr": "Alacaklı icra talebinde bulunur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "rechtsnorm",
+    "de": "die Rechtsnorm",
+    "tr": "hukuk normu",
+    "article": "die",
+    "word": "Rechtsnorm",
+    "plural": null,
+    "type": "isim",
+    "category": "allgemein",
+    "level": "B2",
+    "definitionDE": "Eine allgemeine verbindliche rechtliche Regelung.",
+    "definitionTR": "Genel ve bağlayıcı hukuk kuralı.",
+    "examples": [
+      {
+        "de": "Die Rechtsnorm wird ausgelegt.",
+        "tr": "Hukuk normu yorumlanır."
+      },
+      {
+        "de": "Mehrere Rechtsnormen können zusammenwirken.",
+        "tr": "Birden çok hukuk normu birlikte uygulanabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "gesetz",
+    "de": "das Gesetz",
+    "tr": "kanun",
+    "article": "das",
+    "word": "Gesetz",
+    "plural": "Gesetze",
+    "type": "isim",
+    "category": "allgemein",
+    "level": "A2",
+    "definitionDE": "Eine durch den Gesetzgeber gesetzte Rechtsregelung.",
+    "definitionTR": "Yasama organınca kabul edilen normatif düzenleme.",
+    "examples": [
+      {
+        "de": "Das Gesetz tritt morgen in Kraft.",
+        "tr": "Kanun yarın yürürlüğe girer."
+      },
+      {
+        "de": "Das Gesetz enthält eine Ausnahme.",
+        "tr": "Kanun bir istisna içeriyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "vorschrift",
+    "de": "die Vorschrift",
+    "tr": "hüküm; düzenleme",
+    "article": "die",
+    "word": "Vorschrift",
+    "plural": null,
+    "type": "isim",
+    "category": "allgemein",
+    "level": "B1",
+    "definitionDE": "Eine einzelne verbindliche Regelung in einem Normtext.",
+    "definitionTR": "Bir mevzuat metnindeki tekil düzenleyici hüküm.",
+    "examples": [
+      {
+        "de": "Die Vorschrift gilt auch für Unternehmen.",
+        "tr": "Hüküm şirketler için de geçerlidir."
+      },
+      {
+        "de": "Die Vorschrift ist eindeutig formuliert.",
+        "tr": "Düzenleme açık biçimde kaleme alınmıştır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "pflicht",
+    "de": "die Pflicht",
+    "tr": "yükümlülük; ödev",
+    "article": "die",
+    "word": "Pflicht",
+    "plural": null,
+    "type": "isim",
+    "category": "allgemein",
+    "level": "A2",
+    "definitionDE": "Ein rechtliches Gebot zu einem bestimmten Verhalten.",
+    "definitionTR": "Belirli bir davranışı yerine getirmeye ilişkin hukuki yükümlülük.",
+    "examples": [
+      {
+        "de": "Die Pflicht entsteht aus dem Vertrag.",
+        "tr": "Yükümlülük sözleşmeden doğar."
+      },
+      {
+        "de": "Der Käufer verletzt seine Pflicht.",
+        "tr": "Alıcı yükümlülüğünü ihlal eder."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "recht",
+    "de": "das Recht",
+    "tr": "hak; hukuk",
+    "article": "das",
+    "word": "Recht",
+    "plural": null,
+    "type": "isim",
+    "category": "allgemein",
+    "level": "A1",
+    "definitionDE": "Je nach Zusammenhang eine Rechtsordnung oder eine individuelle Berechtigung.",
+    "definitionTR": "Bağlama göre hukuk düzeni veya bireysel hak anlamına gelen terim.",
+    "examples": [
+      {
+        "de": "Das Recht schützt die Freiheit.",
+        "tr": "Hukuk özgürlüğü korur."
+      },
+      {
+        "de": "Jeder hat das Recht auf Gehör.",
+        "tr": "Herkesin dinlenilme hakkı vardır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "frist",
+    "de": "die Frist",
+    "tr": "süre",
+    "article": "die",
+    "word": "Frist",
+    "plural": "Fristen",
+    "type": "isim",
+    "category": "allgemein",
+    "level": "B1",
+    "definitionDE": "Ein rechtlich bedeutsamer Zeitraum oder Endzeitpunkt.",
+    "definitionTR": "Hukuki sonuç bağlanan belirli zaman aralığı veya son tarih.",
+    "examples": [
+      {
+        "de": "Die Frist endet am Freitag.",
+        "tr": "Süre cuma günü sona erer."
+      },
+      {
+        "de": "Der Antrag muss innerhalb der Frist eingehen.",
+        "tr": "Başvurunun süre içinde ulaşması gerekir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "person",
+    "de": "die Person",
+    "tr": "kişi",
+    "article": "die",
+    "word": "Person",
+    "plural": null,
+    "type": "isim",
+    "category": "zivil",
+    "level": "A1",
+    "definitionDE": "Ein Mensch oder eine rechtlich anerkannte Rechtsperson.",
+    "definitionTR": "Gerçek veya hukuk düzenince tanınan tüzel kişi.",
+    "examples": [
+      {
+        "de": "Jede natürliche Person hat Rechte.",
+        "tr": "Her gerçek kişinin hakları vardır."
+      },
+      {
+        "de": "Die juristische Person schließt einen Vertrag.",
+        "tr": "Tüzel kişi sözleşme akdeder."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "minderjahrigkeit",
+    "de": "die Minderjährigkeit",
+    "tr": "küçüklük; ergin olmama",
+    "article": "die",
+    "word": "Minderjährigkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "zivil",
+    "level": "B2",
+    "definitionDE": "Der rechtliche Status einer Person vor Eintritt der Volljährigkeit.",
+    "definitionTR": "Kişinin erginlik yaşına ulaşmamış olma durumu.",
+    "examples": [
+      {
+        "de": "Die Minderjährigkeit wirkt sich auf Rechtsgeschäfte aus.",
+        "tr": "Küçüklük hukuki işlemleri etkiler."
+      },
+      {
+        "de": "Das Gesetz schützt Personen während der Minderjährigkeit.",
+        "tr": "Kanun küçüklük dönemindeki kişileri korur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "schuld",
+    "de": "die Schuld",
+    "tr": "borç; kusur (bağlama göre)",
+    "article": "die",
+    "word": "Schuld",
+    "plural": null,
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B2",
+    "definitionDE": "Im Schuldrecht eine Leistungspflicht; in anderen Zusammenhängen auch Verantwortlichkeit.",
+    "definitionTR": "Borçlar hukukunda edim yükümlülüğü; başka bağlamlarda kusur veya suçluluk anlamına gelebilir.",
+    "examples": [
+      {
+        "de": "Die Schuld wird bei Fälligkeit beglichen.",
+        "tr": "Borç muaccel olduğunda ödenir."
+      },
+      {
+        "de": "Die Schuld stammt aus einem Darlehen.",
+        "tr": "Borç bir kredi sözleşmesinden kaynaklanıyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "glaubiger",
+    "de": "der Gläubiger",
+    "tr": "alacaklı",
+    "article": "der",
+    "word": "Gläubiger",
+    "plural": null,
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B1",
+    "definitionDE": "Eine Person, der ein Anspruch gegen einen Schuldner zusteht.",
+    "definitionTR": "Borçluya karşı talep hakkı olan kişi.",
+    "examples": [
+      {
+        "de": "Der Gläubiger fordert die Zahlung.",
+        "tr": "Alacaklı ödeme talep eder."
+      },
+      {
+        "de": "Der Gläubiger mahnt den Schuldner.",
+        "tr": "Alacaklı borçluya ihtar gönderir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "schuldner",
+    "de": "der Schuldner",
+    "tr": "borçlu",
+    "article": "der",
+    "word": "Schuldner",
+    "plural": null,
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B1",
+    "definitionDE": "Eine Person, die zu einer Leistung verpflichtet ist.",
+    "definitionTR": "Bir edimi yerine getirmekle yükümlü kişi.",
+    "examples": [
+      {
+        "de": "Der Schuldner zahlt nicht rechtzeitig.",
+        "tr": "Borçlu zamanında ödeme yapmaz."
+      },
+      {
+        "de": "Der Schuldner muss die Ware liefern.",
+        "tr": "Borçlu malı teslim etmelidir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "leistung",
+    "de": "die Leistung",
+    "tr": "edim; ifa",
+    "article": "die",
+    "word": "Leistung",
+    "plural": null,
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B2",
+    "definitionDE": "Das geschuldete Tun oder Unterlassen.",
+    "definitionTR": "Borç ilişkisi kapsamında yapılması veya yapılmaması gereken davranış.",
+    "examples": [
+      {
+        "de": "Die Leistung ist fällig.",
+        "tr": "Edimin ifa zamanı gelmiştir."
+      },
+      {
+        "de": "Die Leistung kann unmöglich werden.",
+        "tr": "Edimin yerine getirilmesi imkânsızlaşabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "falligkeit",
+    "de": "die Fälligkeit",
+    "tr": "muacceliyet",
+    "article": "die",
+    "word": "Fälligkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "C1",
+    "definitionDE": "Der Zeitpunkt, ab dem eine Leistung verlangt werden kann.",
+    "definitionTR": "Alacaklının edimin yerine getirilmesini talep edebileceği zaman.",
+    "examples": [
+      {
+        "de": "Die Fälligkeit wurde vertraglich vereinbart.",
+        "tr": "Muacceliyet zamanı sözleşmeyle kararlaştırıldı."
+      },
+      {
+        "de": "Nach Fälligkeit kann der Gläubiger Zahlung verlangen.",
+        "tr": "Muacceliyet sonrasında alacaklı ödeme talep edebilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "verzug",
+    "de": "der Verzug",
+    "tr": "temerrüt",
+    "article": "der",
+    "word": "Verzug",
+    "plural": null,
+    "type": "isim",
+    "category": "schuldrecht",
+    "level": "B2",
+    "definitionDE": "Die rechtlich relevante Verzögerung einer fälligen Leistung unter weiteren Voraussetzungen.",
+    "definitionTR": "Muaccel edimin gerekli koşullarda geciktirilmesine bağlanan hukuki durum.",
+    "examples": [
+      {
+        "de": "Der Schuldner befindet sich im Verzug.",
+        "tr": "Borçlu temerrüt hâlindedir."
+      },
+      {
+        "de": "Der Verzug kann Schadensersatz auslösen.",
+        "tr": "Temerrüt tazminat sorumluluğu doğurabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "angebot",
+    "de": "das Angebot",
+    "tr": "icap; öneri",
+    "article": "das",
+    "word": "Angebot",
+    "plural": null,
+    "type": "isim",
+    "category": "vertrag",
+    "level": "B1",
+    "definitionDE": "Eine auf Vertragsschluss gerichtete empfangsbedürftige Willenserklärung.",
+    "definitionTR": "Sözleşme kurulmasına yönelik karşı tarafa ulaşması gereken irade beyanı.",
+    "examples": [
+      {
+        "de": "Das Angebot ist verbindlich.",
+        "tr": "Öneri bağlayıcıdır."
+      },
+      {
+        "de": "Der Käufer nimmt das Angebot an.",
+        "tr": "Alıcı öneriyi kabul eder."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "annahme",
+    "de": "die Annahme",
+    "tr": "kabul",
+    "article": "die",
+    "word": "Annahme",
+    "plural": null,
+    "type": "isim",
+    "category": "vertrag",
+    "level": "B1",
+    "definitionDE": "Die Zustimmung zu einem Angebot zum Vertragsschluss.",
+    "definitionTR": "Sözleşme kurma önerisine verilen uygun kabul beyanı.",
+    "examples": [
+      {
+        "de": "Die Annahme erfolgt schriftlich.",
+        "tr": "Kabul yazılı olarak yapılır."
+      },
+      {
+        "de": "Eine verspätete Annahme kann als neues Angebot gelten.",
+        "tr": "Geç kabul yeni öneri sayılabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "vertragspartei",
+    "de": "die Vertragspartei",
+    "tr": "sözleşme tarafı",
+    "article": "die",
+    "word": "Vertragspartei",
+    "plural": null,
+    "type": "isim",
+    "category": "vertrag",
+    "level": "B1",
+    "definitionDE": "Eine Person oder Organisation, die an einem Vertrag beteiligt ist.",
+    "definitionTR": "Sözleşmenin tarafı olan kişi veya kuruluş.",
+    "examples": [
+      {
+        "de": "Jede Vertragspartei erhält eine Kopie.",
+        "tr": "Her sözleşme tarafı bir kopya alır."
+      },
+      {
+        "de": "Die Vertragsparteien verhandeln über die Bedingungen.",
+        "tr": "Sözleşme tarafları koşulları müzakere ediyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "vertragsfreiheit",
+    "de": "die Vertragsfreiheit",
+    "tr": "sözleşme özgürlüğü",
+    "article": "die",
+    "word": "Vertragsfreiheit",
+    "plural": null,
+    "type": "isim",
+    "category": "vertrag",
+    "level": "B2",
+    "definitionDE": "Die grundsätzlich bestehende Freiheit, Verträge abzuschließen und zu gestalten.",
+    "definitionTR": "Kanuni sınırlar içinde sözleşme yapma ve içeriğini belirleme özgürlüğü.",
+    "examples": [
+      {
+        "de": "Die Vertragsfreiheit ist gesetzlich begrenzt.",
+        "tr": "Sözleşme özgürlüğü kanunla sınırlandırılmıştır."
+      },
+      {
+        "de": "Die Parteien berufen sich auf Vertragsfreiheit.",
+        "tr": "Taraflar sözleşme özgürlüğüne dayanır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "unwirksamkeit",
+    "de": "die Unwirksamkeit",
+    "tr": "geçersizlik",
+    "article": "die",
+    "word": "Unwirksamkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "vertrag",
+    "level": "C1",
+    "definitionDE": "Das Fehlen der rechtlichen Wirksamkeit eines Rechtsgeschäfts.",
+    "definitionTR": "Hukuki işlemin amaçlanan hukuki etkiyi doğurmaması.",
+    "examples": [
+      {
+        "de": "Die Unwirksamkeit wird gerichtlich festgestellt.",
+        "tr": "Geçersizlik mahkemece tespit edilir."
+      },
+      {
+        "de": "Ein Formmangel kann zur Unwirksamkeit führen.",
+        "tr": "Şekil eksikliği geçersizliğe yol açabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "sache",
+    "de": "die Sache",
+    "tr": "eşya",
+    "article": "die",
+    "word": "Sache",
+    "plural": null,
+    "type": "isim",
+    "category": "sachen",
+    "level": "B1",
+    "definitionDE": "Ein körperlicher Gegenstand im Sinne des Sachenrechts.",
+    "definitionTR": "Eşya hukukunda maddi varlığı olan nesne.",
+    "examples": [
+      {
+        "de": "Die Sache gehört dem Eigentümer.",
+        "tr": "Eşya malike aittir."
+      },
+      {
+        "de": "Die Sache wurde dem Käufer übergeben.",
+        "tr": "Eşya alıcıya teslim edildi."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "grundstuck",
+    "de": "das Grundstück",
+    "tr": "taşınmaz; arazi",
+    "article": "das",
+    "word": "Grundstück",
+    "plural": null,
+    "type": "isim",
+    "category": "sachen",
+    "level": "B1",
+    "definitionDE": "Ein räumlich abgegrenzter Teil der Erdoberfläche als rechtliche Einheit.",
+    "definitionTR": "Hukuken belirlenmiş bir arazi parçası.",
+    "examples": [
+      {
+        "de": "Das Grundstück wird verkauft.",
+        "tr": "Taşınmaz satılıyor."
+      },
+      {
+        "de": "Das Grundstück ist im Grundbuch eingetragen.",
+        "tr": "Taşınmaz tapu siciline kayıtlıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "grundbuch",
+    "de": "das Grundbuch",
+    "tr": "tapu sicili",
+    "article": "das",
+    "word": "Grundbuch",
+    "plural": null,
+    "type": "isim",
+    "category": "sachen",
+    "level": "B2",
+    "definitionDE": "Ein öffentliches Register über Grundstücke und dingliche Rechte.",
+    "definitionTR": "Taşınmazları ve üzerlerindeki ayni hakları gösteren resmî sicil.",
+    "examples": [
+      {
+        "de": "Das Eigentum ist im Grundbuch eingetragen.",
+        "tr": "Mülkiyet tapu siciline tescil edilmiştir."
+      },
+      {
+        "de": "Das Grundbuch wird elektronisch geführt.",
+        "tr": "Tapu sicili elektronik ortamda tutulur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "ubereignung",
+    "de": "die Übereignung",
+    "tr": "mülkiyetin devri",
+    "article": "die",
+    "word": "Übereignung",
+    "plural": null,
+    "type": "isim",
+    "category": "sachen",
+    "level": "C1",
+    "definitionDE": "Die rechtsgeschäftliche Übertragung des Eigentums.",
+    "definitionTR": "Mülkiyetin hukuki işlem yoluyla devredilmesi.",
+    "examples": [
+      {
+        "de": "Die Übereignung setzt eine Einigung voraus.",
+        "tr": "Mülkiyet devri bir anlaşma gerektirir."
+      },
+      {
+        "de": "Bei beweglichen Sachen ist regelmäßig die Übergabe wichtig.",
+        "tr": "Taşınır eşyalarda kural olarak teslim önemlidir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "dienstbarkeit",
+    "de": "die Dienstbarkeit",
+    "tr": "irtifak hakkı",
+    "article": "die",
+    "word": "Dienstbarkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "sachen",
+    "level": "C1",
+    "definitionDE": "Ein beschränktes dingliches Recht zur Nutzung oder Belastung einer Sache.",
+    "definitionTR": "Başkasına ait eşya üzerinde sınırlı yararlanma yetkisi veren ayni hak.",
+    "examples": [
+      {
+        "de": "Die Dienstbarkeit ist im Grundbuch eingetragen.",
+        "tr": "İrtifak hakkı tapu siciline tescil edilmiştir."
+      },
+      {
+        "de": "Eine Dienstbarkeit kann den Eigentümer beschränken.",
+        "tr": "İrtifak hakkı malikin yetkilerini sınırlayabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "straftat",
+    "de": "die Straftat",
+    "tr": "suç teşkil eden fiil",
+    "article": "die",
+    "word": "Straftat",
+    "plural": "Straftaten",
+    "type": "isim",
+    "category": "straf",
+    "level": "B1",
+    "definitionDE": "Eine mit Strafe bedrohte rechtswidrige und schuldhafte Handlung.",
+    "definitionTR": "Ceza yaptırımına bağlanan hukuka aykırı ve kusurlu fiil.",
+    "examples": [
+      {
+        "de": "Die Polizei untersucht die Straftat.",
+        "tr": "Polis suç teşkil eden fiili araştırıyor."
+      },
+      {
+        "de": "Die Straftat wurde angezeigt.",
+        "tr": "Suç hakkında ihbarda bulunuldu."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "tatbestand",
+    "de": "der Tatbestand",
+    "tr": "suçun kanuni unsurları; normun uygulama koşulları",
+    "article": "der",
+    "word": "Tatbestand",
+    "plural": null,
+    "type": "isim",
+    "category": "straf",
+    "level": "B2",
+    "definitionDE": "Die gesetzlichen Merkmale, die für eine Rechtsfolge erfüllt sein müssen.",
+    "definitionTR": "Ceza hukukunda suçun kanuni unsurları; genel hukukta normun uygulanma koşulları.",
+    "examples": [
+      {
+        "de": "Der objektive Tatbestand ist erfüllt.",
+        "tr": "Suçun maddi unsurları gerçekleşmiştir."
+      },
+      {
+        "de": "Das Gericht prüft den Tatbestand.",
+        "tr": "Mahkeme kanuni unsurları inceler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "rechtswidrigkeit",
+    "de": "die Rechtswidrigkeit",
+    "tr": "hukuka aykırılık",
+    "article": "die",
+    "word": "Rechtswidrigkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "straf",
+    "level": "B2",
+    "definitionDE": "Der Widerspruch einer Handlung zur Rechtsordnung ohne Rechtfertigung.",
+    "definitionTR": "Bir fiilin hukuka uygunluk nedeni olmaksızın hukuk düzenine aykırı olması.",
+    "examples": [
+      {
+        "de": "Die Rechtswidrigkeit muss geprüft werden.",
+        "tr": "Hukuka aykırılık incelenmelidir."
+      },
+      {
+        "de": "Notwehr kann die Rechtswidrigkeit ausschließen.",
+        "tr": "Meşru savunma hukuka aykırılığı ortadan kaldırabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "schuldhaftigkeit",
+    "de": "die Schuldhaftigkeit",
+    "tr": "kusurluluk",
+    "article": "die",
+    "word": "Schuldhaftigkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "straf",
+    "level": "C1",
+    "definitionDE": "Die individuelle Vorwerfbarkeit einer rechtswidrigen Tat.",
+    "definitionTR": "Hukuka aykırı fiilin faile kişisel olarak isnat edilebilirliği.",
+    "examples": [
+      {
+        "de": "Die Schuldhaftigkeit ist gesondert zu prüfen.",
+        "tr": "Kusurluluk ayrıca incelenmelidir."
+      },
+      {
+        "de": "Ein Entschuldigungsgrund kann die Schuldhaftigkeit ausschließen.",
+        "tr": "Mazeret nedeni kusurluluğu ortadan kaldırabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "vorsatz",
+    "de": "der Vorsatz",
+    "tr": "kast",
+    "article": "der",
+    "word": "Vorsatz",
+    "plural": null,
+    "type": "isim",
+    "category": "straf",
+    "level": "B2",
+    "definitionDE": "Das Wissen und Wollen der Tatbestandsverwirklichung in der jeweiligen gesetzlichen Form.",
+    "definitionTR": "Suçun kanuni unsurlarını bilerek ve isteyerek gerçekleştirmeye yönelik manevi unsur.",
+    "examples": [
+      {
+        "de": "Der Täter handelt mit Vorsatz.",
+        "tr": "Fail kasten hareket eder."
+      },
+      {
+        "de": "Vorsatz und Fahrlässigkeit sind zu unterscheiden.",
+        "tr": "Kast ve taksir birbirinden ayrılmalıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "fahrlassigkeit",
+    "de": "die Fahrlässigkeit",
+    "tr": "taksir; ihmal",
+    "article": "die",
+    "word": "Fahrlässigkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "straf",
+    "level": "B2",
+    "definitionDE": "Die pflichtwidrige Außerachtlassung der gebotenen Sorgfalt.",
+    "definitionTR": "Gerekli özenin yükümlülüğe aykırı biçimde gösterilmemesi.",
+    "examples": [
+      {
+        "de": "Die Tat wurde fahrlässig begangen.",
+        "tr": "Fiil taksirle işlendi."
+      },
+      {
+        "de": "Fahrlässigkeit genügt nicht bei jeder Straftat.",
+        "tr": "Her suç için taksir yeterli değildir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "notwehr",
+    "de": "die Notwehr",
+    "tr": "meşru savunma",
+    "article": "die",
+    "word": "Notwehr",
+    "plural": null,
+    "type": "isim",
+    "category": "straf",
+    "level": "B2",
+    "definitionDE": "Die erforderliche Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff.",
+    "definitionTR": "Halen devam eden hukuka aykırı saldırıya karşı gerekli savunma.",
+    "examples": [
+      {
+        "de": "Die Notwehr kann die Tat rechtfertigen.",
+        "tr": "Meşru savunma fiili hukuka uygun kılabilir."
+      },
+      {
+        "de": "Das Gericht prüft die Voraussetzungen der Notwehr.",
+        "tr": "Mahkeme meşru savunmanın koşullarını inceler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "strafe",
+    "de": "die Strafe",
+    "tr": "ceza",
+    "article": "die",
+    "word": "Strafe",
+    "plural": "Strafen",
+    "type": "isim",
+    "category": "straf",
+    "level": "B1",
+    "definitionDE": "Eine gesetzlich vorgesehene Sanktion für eine Straftat.",
+    "definitionTR": "Bir suç nedeniyle kanunca öngörülen yaptırım.",
+    "examples": [
+      {
+        "de": "Das Gericht setzt die Strafe fest.",
+        "tr": "Mahkeme cezayı belirler."
+      },
+      {
+        "de": "Die Strafe muss verhältnismäßig sein.",
+        "tr": "Ceza ölçülü olmalıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "beschuldigte",
+    "de": "der Beschuldigte",
+    "tr": "şüpheli (soruşturma aşaması)",
+    "article": "der",
+    "word": "Beschuldigte",
+    "plural": null,
+    "type": "isim",
+    "category": "strafprozess",
+    "level": "B2",
+    "definitionDE": "Die Person, gegen die ein Strafverfahren betrieben wird.",
+    "definitionTR": "Hakkında ceza soruşturması yürütülen kişi.",
+    "examples": [
+      {
+        "de": "Der Beschuldigte wird vernommen.",
+        "tr": "Şüphelinin ifadesi alınıyor."
+      },
+      {
+        "de": "Der Beschuldigte hat Verteidigungsrechte.",
+        "tr": "Şüphelinin savunma hakları vardır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "angeklagte",
+    "de": "der Angeklagte",
+    "tr": "sanık",
+    "article": "der",
+    "word": "Angeklagte",
+    "plural": null,
+    "type": "isim",
+    "category": "strafprozess",
+    "level": "B2",
+    "definitionDE": "Die Person, gegen die die öffentliche Klage erhoben ist.",
+    "definitionTR": "Hakkında kamu davası açılmış kişi.",
+    "examples": [
+      {
+        "de": "Der Angeklagte erscheint zur Hauptverhandlung.",
+        "tr": "Sanık duruşmaya katılır."
+      },
+      {
+        "de": "Der Angeklagte wird von einer Anwältin verteidigt.",
+        "tr": "Sanık bir avukat tarafından savunulur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "staatsanwaltschaft",
+    "de": "die Staatsanwaltschaft",
+    "tr": "savcılık",
+    "article": "die",
+    "word": "Staatsanwaltschaft",
+    "plural": null,
+    "type": "isim",
+    "category": "strafprozess",
+    "level": "B2",
+    "definitionDE": "Die Behörde, die insbesondere Strafverfahren leitet und Anklage erhebt.",
+    "definitionTR": "Ceza soruşturmasını yürüten ve kamu davası açan makam.",
+    "examples": [
+      {
+        "de": "Die Staatsanwaltschaft erhebt Anklage.",
+        "tr": "Savcılık iddianame düzenleyerek dava açar."
+      },
+      {
+        "de": "Die Staatsanwaltschaft ermittelt wegen Betrugs.",
+        "tr": "Savcılık dolandırıcılık nedeniyle soruşturma yürütüyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "durchsuchung",
+    "de": "die Durchsuchung",
+    "tr": "arama işlemi",
+    "article": "die",
+    "word": "Durchsuchung",
+    "plural": null,
+    "type": "isim",
+    "category": "strafprozess",
+    "level": "B2",
+    "definitionDE": "Eine strafprozessuale Maßnahme zum Auffinden von Personen oder Beweismitteln.",
+    "definitionTR": "Kişileri veya delilleri bulmak amacıyla yapılan ceza muhakemesi işlemi.",
+    "examples": [
+      {
+        "de": "Die Polizei führt eine Durchsuchung durch.",
+        "tr": "Polis arama işlemi gerçekleştiriyor."
+      },
+      {
+        "de": "Die Durchsuchung bedarf regelmäßig einer richterlichen Anordnung.",
+        "tr": "Arama işlemi kural olarak hâkim kararı gerektirir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "untersuchungshaft",
+    "de": "die Untersuchungshaft",
+    "tr": "tutukluluk; soruşturma tutuklaması",
+    "article": "die",
+    "word": "Untersuchungshaft",
+    "plural": null,
+    "type": "isim",
+    "category": "strafprozess",
+    "level": "C1",
+    "definitionDE": "Eine freiheitsentziehende Maßnahme zur Sicherung eines Strafverfahrens.",
+    "definitionTR": "Ceza muhakemesini güvenceye almak için uygulanan özgürlükten yoksun bırakma tedbiri.",
+    "examples": [
+      {
+        "de": "Das Gericht ordnet Untersuchungshaft an.",
+        "tr": "Mahkeme tutuklama kararı verir."
+      },
+      {
+        "de": "Die Untersuchungshaft ist keine Strafe.",
+        "tr": "Tutukluluk ceza değildir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "verfassung",
+    "de": "die Verfassung",
+    "tr": "anayasa",
+    "article": "die",
+    "word": "Verfassung",
+    "plural": null,
+    "type": "isim",
+    "category": "verfassung",
+    "level": "B1",
+    "definitionDE": "Die grundlegende rechtliche Ordnung eines Staates.",
+    "definitionTR": "Bir devletin temel hukuki düzenini belirleyen üst normlar bütünü.",
+    "examples": [
+      {
+        "de": "Die Verfassung schützt Grundrechte.",
+        "tr": "Anayasa temel hakları korur."
+      },
+      {
+        "de": "Die Verfassung regelt die Staatsorgane.",
+        "tr": "Anayasa devlet organlarını düzenler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "grundrecht",
+    "de": "das Grundrecht",
+    "tr": "temel hak",
+    "article": "das",
+    "word": "Grundrecht",
+    "plural": null,
+    "type": "isim",
+    "category": "verfassung",
+    "level": "B1",
+    "definitionDE": "Ein verfassungsrechtlich gewährleistetes individuelles Recht.",
+    "definitionTR": "Anayasa düzeyinde güvence altına alınan bireysel hak.",
+    "examples": [
+      {
+        "de": "Die Meinungsfreiheit ist ein Grundrecht.",
+        "tr": "İfade özgürlüğü bir temel haktır."
+      },
+      {
+        "de": "Grundrechte binden die staatliche Gewalt.",
+        "tr": "Temel haklar devlet iktidarını bağlar."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "gewaltenteilung",
+    "de": "die Gewaltenteilung",
+    "tr": "kuvvetler ayrılığı",
+    "article": "die",
+    "word": "Gewaltenteilung",
+    "plural": null,
+    "type": "isim",
+    "category": "verfassung",
+    "level": "B2",
+    "definitionDE": "Die organisatorische Trennung und gegenseitige Kontrolle staatlicher Gewalten.",
+    "definitionTR": "Devlet erklerinin ayrılması ve birbirini dengelemesi ilkesi.",
+    "examples": [
+      {
+        "de": "Die Gewaltenteilung begrenzt staatliche Macht.",
+        "tr": "Kuvvetler ayrılığı devlet gücünü sınırlar."
+      },
+      {
+        "de": "Die Verfassung beruht auf Gewaltenteilung.",
+        "tr": "Anayasa kuvvetler ayrılığına dayanır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "verhaltnismassigkeit",
+    "de": "die Verhältnismäßigkeit",
+    "tr": "ölçülülük",
+    "article": "die",
+    "word": "Verhältnismäßigkeit",
+    "plural": null,
+    "type": "isim",
+    "category": "verfassung",
+    "level": "C1",
+    "definitionDE": "Ein Grundsatz, nach dem staatliche Eingriffe geeignet, erforderlich und angemessen sein müssen.",
+    "definitionTR": "Kamusal müdahalenin elverişli, gerekli ve orantılı olmasını gerektiren ilke.",
+    "examples": [
+      {
+        "de": "Der Eingriff muss verhältnismäßig sein.",
+        "tr": "Müdahale ölçülü olmalıdır."
+      },
+      {
+        "de": "Das Gericht prüft die Verhältnismäßigkeit der Maßnahme.",
+        "tr": "Mahkeme tedbirin ölçülülüğünü inceler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "rechtsstaat",
+    "de": "der Rechtsstaat",
+    "tr": "hukuk devleti",
+    "article": "der",
+    "word": "Rechtsstaat",
+    "plural": null,
+    "type": "isim",
+    "category": "verfassung",
+    "level": "B2",
+    "definitionDE": "Ein Staat, dessen Machtausübung an Recht und Gesetz gebunden ist.",
+    "definitionTR": "Kamu gücünün hukukla bağlı olduğu devlet düzeni.",
+    "examples": [
+      {
+        "de": "Der Rechtsstaat schützt die Bürger.",
+        "tr": "Hukuk devleti yurttaşları korur."
+      },
+      {
+        "de": "Rechtsschutz ist für den Rechtsstaat wesentlich.",
+        "tr": "Yargısal koruma hukuk devleti için esastır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "verwaltungsakt",
+    "de": "der Verwaltungsakt",
+    "tr": "idari işlem (Alman hukukunda özel tür)",
+    "article": "der",
+    "word": "Verwaltungsakt",
+    "plural": null,
+    "type": "isim",
+    "category": "verwaltung",
+    "level": "C1",
+    "definitionDE": "Eine hoheitliche Einzelfallregelung einer Behörde mit unmittelbarer Außenwirkung.",
+    "definitionTR": "Alman idare hukukunda idarenin dış etki doğuran, somut olayı düzenleyen tek taraflı işlemi.",
+    "examples": [
+      {
+        "de": "Die Behörde erlässt einen Verwaltungsakt.",
+        "tr": "İdare bir idari işlem tesis eder."
+      },
+      {
+        "de": "Gegen den Verwaltungsakt kann Widerspruch zulässig sein.",
+        "tr": "İdari işleme karşı itiraz mümkün olabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "behorde",
+    "de": "die Behörde",
+    "tr": "idari makam",
+    "article": "die",
+    "word": "Behörde",
+    "plural": null,
+    "type": "isim",
+    "category": "verwaltung",
+    "level": "B1",
+    "definitionDE": "Eine Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt.",
+    "definitionTR": "Kamu yönetimi görevlerini yerine getiren kurum veya birim.",
+    "examples": [
+      {
+        "de": "Die Behörde prüft den Antrag.",
+        "tr": "İdari makam başvuruyu inceler."
+      },
+      {
+        "de": "Die Behörde muss die Entscheidung begründen.",
+        "tr": "İdare kararını gerekçelendirmelidir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "widerspruch",
+    "de": "der Widerspruch",
+    "tr": "itiraz (Alman idare usulünde)",
+    "article": "der",
+    "word": "Widerspruch",
+    "plural": null,
+    "type": "isim",
+    "category": "verwaltung",
+    "level": "B2",
+    "definitionDE": "Ein förmlicher Rechtsbehelf gegen bestimmte Verwaltungsakte.",
+    "definitionTR": "Belirli idari işlemlere karşı kullanılan resmî başvuru yolu.",
+    "examples": [
+      {
+        "de": "Der Bürger legt Widerspruch ein.",
+        "tr": "Vatandaş idari itirazda bulunur."
+      },
+      {
+        "de": "Der Widerspruch muss fristgerecht eingehen.",
+        "tr": "İtiraz süresi içinde ulaşmalıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "genehmigung",
+    "de": "die Genehmigung",
+    "tr": "izin; onay",
+    "article": "die",
+    "word": "Genehmigung",
+    "plural": null,
+    "type": "isim",
+    "category": "verwaltung",
+    "level": "B1",
+    "definitionDE": "Eine behördliche Zustimmung zu einer bestimmten Handlung.",
+    "definitionTR": "Belirli bir faaliyet için idare tarafından verilen izin veya onay.",
+    "examples": [
+      {
+        "de": "Das Unternehmen beantragt eine Genehmigung.",
+        "tr": "Şirket izin başvurusunda bulunur."
+      },
+      {
+        "de": "Ohne Genehmigung darf nicht gebaut werden.",
+        "tr": "İzin olmadan inşaat yapılamaz."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "offentliche-recht",
+    "de": "das öffentliche Recht",
+    "tr": "kamu hukuku",
+    "article": "das",
+    "word": "öffentliche Recht",
+    "plural": null,
+    "type": "isim",
+    "category": "verwaltung",
+    "level": "B2",
+    "definitionDE": "Der Teil der Rechtsordnung, der insbesondere staatliche Hoheitsverhältnisse regelt.",
+    "definitionTR": "Özellikle kamu gücü ilişkilerini düzenleyen hukuk dalı.",
+    "examples": [
+      {
+        "de": "Das öffentliche Recht betrifft den Staat.",
+        "tr": "Kamu hukuku devleti ilgilendirir."
+      },
+      {
+        "de": "Die Abgrenzung zum Privatrecht kann schwierig sein.",
+        "tr": "Özel hukukla ayrımı zor olabilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "kaufmann",
+    "de": "der Kaufmann",
+    "tr": "tacir (HGB bağlamında)",
+    "article": "der",
+    "word": "Kaufmann",
+    "plural": null,
+    "type": "isim",
+    "category": "handel",
+    "level": "B2",
+    "definitionDE": "Eine Person, die nach dem Handelsgesetzbuch Kaufmann ist.",
+    "definitionTR": "Alman Ticaret Kanunu (HGB) kapsamında tacir sıfatına sahip kişi.",
+    "examples": [
+      {
+        "de": "Der Kaufmann wird im Handelsregister eingetragen.",
+        "tr": "Tacir ticaret siciline kaydedilir."
+      },
+      {
+        "de": "Für Kaufleute gelten besondere Vorschriften.",
+        "tr": "Tacirlere özel hükümler uygulanır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "handelsregister",
+    "de": "das Handelsregister",
+    "tr": "ticaret sicili",
+    "article": "das",
+    "word": "Handelsregister",
+    "plural": null,
+    "type": "isim",
+    "category": "handel",
+    "level": "B2",
+    "definitionDE": "Ein öffentliches Register für bestimmte handelsrechtliche Tatsachen.",
+    "definitionTR": "Ticaret hukukuna ilişkin belirli bilgilerin kaydedildiği resmî sicil.",
+    "examples": [
+      {
+        "de": "Die Gesellschaft ist im Handelsregister eingetragen.",
+        "tr": "Şirket ticaret siciline kayıtlıdır."
+      },
+      {
+        "de": "Das Handelsregister ist öffentlich einsehbar.",
+        "tr": "Ticaret sicili kamuya açıktır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "unternehmen",
+    "de": "das Unternehmen",
+    "tr": "işletme; şirket (bağlama göre)",
+    "article": "das",
+    "word": "Unternehmen",
+    "plural": null,
+    "type": "isim",
+    "category": "handel",
+    "level": "B1",
+    "definitionDE": "Eine wirtschaftlich organisierte Tätigkeitseinheit.",
+    "definitionTR": "Ekonomik faaliyette bulunan örgütlü birim.",
+    "examples": [
+      {
+        "de": "Das Unternehmen schließt einen Liefervertrag.",
+        "tr": "İşletme bir tedarik sözleşmesi yapar."
+      },
+      {
+        "de": "Das Unternehmen beschäftigt hundert Personen.",
+        "tr": "İşletme yüz kişi istihdam ediyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "prokura",
+    "de": "die Prokura",
+    "tr": "ticari temsil yetkisi; prokura",
+    "article": "die",
+    "word": "Prokura",
+    "plural": null,
+    "type": "isim",
+    "category": "handel",
+    "level": "C1",
+    "definitionDE": "Eine handelsrechtlich besonders geregelte Vertretungsmacht.",
+    "definitionTR": "Alman ticaret hukukunda özel olarak düzenlenmiş geniş temsil yetkisi.",
+    "examples": [
+      {
+        "de": "Die Prokura wird ausdrücklich erteilt.",
+        "tr": "Prokura açıkça verilir."
+      },
+      {
+        "de": "Die Erteilung der Prokura wird angemeldet.",
+        "tr": "Prokura verilmesi sicile bildirilir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "gesellschaft",
+    "de": "die Gesellschaft",
+    "tr": "şirket; ortaklık",
+    "article": "die",
+    "word": "Gesellschaft",
+    "plural": null,
+    "type": "isim",
+    "category": "gesellschaft",
+    "level": "B1",
+    "definitionDE": "Ein rechtlicher Zusammenschluss zur Verfolgung eines gemeinsamen Zwecks.",
+    "definitionTR": "Ortak bir amaç için oluşturulan hukuki birlik.",
+    "examples": [
+      {
+        "de": "Die Gesellschaft wird gegründet.",
+        "tr": "Şirket kuruluyor."
+      },
+      {
+        "de": "Die Gesellschaft haftet nach ihrer Rechtsform.",
+        "tr": "Şirket hukuki türüne göre sorumlu olur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "gesellschafter",
+    "de": "der Gesellschafter",
+    "tr": "ortak",
+    "article": "der",
+    "word": "Gesellschafter",
+    "plural": null,
+    "type": "isim",
+    "category": "gesellschaft",
+    "level": "B2",
+    "definitionDE": "Eine Person, die an einer Gesellschaft beteiligt ist.",
+    "definitionTR": "Bir şirkette ortaklık payı bulunan kişi.",
+    "examples": [
+      {
+        "de": "Der Gesellschafter stimmt über den Beschluss ab.",
+        "tr": "Ortak karar hakkında oy kullanır."
+      },
+      {
+        "de": "Die Rechte der Gesellschafter sind geregelt.",
+        "tr": "Ortakların hakları düzenlenmiştir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "gmbh",
+    "de": "die GmbH",
+    "tr": "limited şirket (Alman GmbH)",
+    "article": "die",
+    "word": "GmbH",
+    "plural": null,
+    "type": "isim",
+    "category": "gesellschaft",
+    "level": "B2",
+    "definitionDE": "Eine Gesellschaft mit beschränkter Haftung nach deutschem Recht.",
+    "definitionTR": "Alman hukukuna özgü sınırlı sorumlu sermaye şirketi türü.",
+    "examples": [
+      {
+        "de": "Die GmbH wird notariell gegründet.",
+        "tr": "GmbH noter işlemiyle kurulur."
+      },
+      {
+        "de": "Die GmbH ist eine juristische Person.",
+        "tr": "GmbH bir tüzel kişidir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "geschaftsfuhrer",
+    "de": "der Geschäftsführer",
+    "tr": "şirket müdürü; yönetici",
+    "article": "der",
+    "word": "Geschäftsführer",
+    "plural": null,
+    "type": "isim",
+    "category": "gesellschaft",
+    "level": "B2",
+    "definitionDE": "Eine Person, die die Geschäftsführung einer Gesellschaft ausübt.",
+    "definitionTR": "Şirketin yönetimini yürüten kişi.",
+    "examples": [
+      {
+        "de": "Der Geschäftsführer vertritt die GmbH.",
+        "tr": "Müdür GmbH'yi temsil eder."
+      },
+      {
+        "de": "Der Geschäftsführer muss sorgfältig handeln.",
+        "tr": "Müdür özenli davranmalıdır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "arbeitnehmer",
+    "de": "der Arbeitnehmer",
+    "tr": "işçi; çalışan",
+    "article": "der",
+    "word": "Arbeitnehmer",
+    "plural": null,
+    "type": "isim",
+    "category": "arbeits",
+    "level": "B1",
+    "definitionDE": "Eine Person, die aufgrund eines Arbeitsvertrags weisungsgebundene Arbeit leistet.",
+    "definitionTR": "İş sözleşmesi kapsamında bağımlı olarak çalışan kişi.",
+    "examples": [
+      {
+        "de": "Der Arbeitnehmer erhält seinen Lohn.",
+        "tr": "İşçi ücretini alır."
+      },
+      {
+        "de": "Arbeitnehmer haben Schutzrechte.",
+        "tr": "Çalışanların koruyucu hakları vardır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "arbeitgeber",
+    "de": "der Arbeitgeber",
+    "tr": "işveren",
+    "article": "der",
+    "word": "Arbeitgeber",
+    "plural": null,
+    "type": "isim",
+    "category": "arbeits",
+    "level": "B1",
+    "definitionDE": "Eine Person oder Organisation, die Beschäftigte aufgrund eines Arbeitsvertrags beschäftigt.",
+    "definitionTR": "İş sözleşmesiyle işçi çalıştıran kişi veya kuruluş.",
+    "examples": [
+      {
+        "de": "Der Arbeitgeber zahlt das Gehalt.",
+        "tr": "İşveren maaşı öder."
+      },
+      {
+        "de": "Der Arbeitgeber beachtet den Arbeitsschutz.",
+        "tr": "İşveren iş güvenliğine uyar."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "arbeitsvertrag",
+    "de": "der Arbeitsvertrag",
+    "tr": "iş sözleşmesi",
+    "article": "der",
+    "word": "Arbeitsvertrag",
+    "plural": null,
+    "type": "isim",
+    "category": "arbeits",
+    "level": "B1",
+    "definitionDE": "Ein Vertrag zur Begründung eines Arbeitsverhältnisses.",
+    "definitionTR": "İşçi ile işveren arasında iş ilişkisi kuran sözleşme.",
+    "examples": [
+      {
+        "de": "Der Arbeitsvertrag regelt die Arbeitszeit.",
+        "tr": "İş sözleşmesi çalışma saatini düzenler."
+      },
+      {
+        "de": "Der Arbeitsvertrag enthält eine Probezeit.",
+        "tr": "İş sözleşmesi deneme süresi içeriyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "tarifvertrag",
+    "de": "der Tarifvertrag",
+    "tr": "toplu iş sözleşmesi",
+    "article": "der",
+    "word": "Tarifvertrag",
+    "plural": null,
+    "type": "isim",
+    "category": "arbeits",
+    "level": "B2",
+    "definitionDE": "Ein Vertrag zwischen Tarifvertragsparteien über Arbeitsbedingungen.",
+    "definitionTR": "Toplu iş sözleşmesi tarafları arasında çalışma koşullarını belirleyen sözleşme.",
+    "examples": [
+      {
+        "de": "Der Tarifvertrag sieht höhere Löhne vor.",
+        "tr": "Toplu iş sözleşmesi daha yüksek ücret öngörüyor."
+      },
+      {
+        "de": "Der Tarifvertrag gilt für die Beschäftigten.",
+        "tr": "Toplu iş sözleşmesi çalışanlara uygulanır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "richtlinie",
+    "de": "die Richtlinie",
+    "tr": "direktif (AB hukuku)",
+    "article": "die",
+    "word": "Richtlinie",
+    "plural": null,
+    "type": "isim",
+    "category": "europa",
+    "level": "B2",
+    "definitionDE": "Ein EU-Rechtsakt, der den Mitgliedstaaten ein verbindliches Ziel vorgibt.",
+    "definitionTR": "Üye devletler için ulaşılacak sonucu bağlayıcı kılan AB hukuku işlemi.",
+    "examples": [
+      {
+        "de": "Die Richtlinie muss umgesetzt werden.",
+        "tr": "Direktif iç hukuka aktarılmalıdır."
+      },
+      {
+        "de": "Die Richtlinie betrifft den Verbraucherschutz.",
+        "tr": "Direktif tüketicinin korunmasına ilişkindir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "verordnung",
+    "de": "die Verordnung",
+    "tr": "tüzük; yönetmelik (bağlama göre)",
+    "article": "die",
+    "word": "Verordnung",
+    "plural": null,
+    "type": "isim",
+    "category": "europa",
+    "level": "B2",
+    "definitionDE": "Ein normativer Rechtsakt; im EU-Recht grundsätzlich unmittelbar geltend.",
+    "definitionTR": "Normatif düzenleme; AB hukukunda kural olarak doğrudan uygulanan işlem.",
+    "examples": [
+      {
+        "de": "Die EU-Verordnung gilt unmittelbar.",
+        "tr": "AB tüzüğü doğrudan uygulanır."
+      },
+      {
+        "de": "Die neue Verordnung enthält Datenschutzregeln.",
+        "tr": "Yeni düzenleme veri koruma kuralları içeriyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "mitgliedstaat",
+    "de": "der Mitgliedstaat",
+    "tr": "üye devlet",
+    "article": "der",
+    "word": "Mitgliedstaat",
+    "plural": null,
+    "type": "isim",
+    "category": "europa",
+    "level": "B2",
+    "definitionDE": "Ein Staat, der einer internationalen Organisation angehört.",
+    "definitionTR": "Uluslararası örgüte üye olan devlet.",
+    "examples": [
+      {
+        "de": "Jeder Mitgliedstaat setzt die Richtlinie um.",
+        "tr": "Her üye devlet direktifi iç hukukuna aktarır."
+      },
+      {
+        "de": "Die Mitgliedstaaten verhandeln im Rat.",
+        "tr": "Üye devletler Konsey'de müzakere eder."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "europaische-gerichtshof",
+    "de": "der Europäische Gerichtshof",
+    "tr": "Avrupa Birliği Adalet Divanı (ABAD)",
+    "article": "der",
+    "word": "Europäische Gerichtshof",
+    "plural": null,
+    "type": "isim",
+    "category": "europa",
+    "level": "C1",
+    "definitionDE": "Das zentrale Gericht der Europäischen Union zur Wahrung des Unionsrechts.",
+    "definitionTR": "AB hukukunun yorumlanması ve uygulanmasını gözeten yargı kurumu.",
+    "examples": [
+      {
+        "de": "Der Gerichtshof legt Unionsrecht aus.",
+        "tr": "Divan Birlik hukukunu yorumlar."
+      },
+      {
+        "de": "Ein nationales Gericht legt eine Frage vor.",
+        "tr": "Ulusal mahkeme ön karar sorusu yöneltir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "volkerrechtliche-vertrag",
+    "de": "der völkerrechtliche Vertrag",
+    "tr": "uluslararası antlaşma",
+    "article": "der",
+    "word": "völkerrechtliche Vertrag",
+    "plural": null,
+    "type": "isim",
+    "category": "voelker",
+    "level": "C1",
+    "definitionDE": "Eine verbindliche Vereinbarung zwischen Völkerrechtssubjekten.",
+    "definitionTR": "Uluslararası hukuk kişileri arasında bağlayıcı anlaşma.",
+    "examples": [
+      {
+        "de": "Der Vertrag wird von Staaten ratifiziert.",
+        "tr": "Antlaşma devletlerce onaylanır."
+      },
+      {
+        "de": "Der völkerrechtliche Vertrag begründet Pflichten.",
+        "tr": "Uluslararası antlaşma yükümlülükler doğurur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "souveranitat",
+    "de": "die Souveränität",
+    "tr": "egemenlik",
+    "article": "die",
+    "word": "Souveränität",
+    "plural": null,
+    "type": "isim",
+    "category": "voelker",
+    "level": "C1",
+    "definitionDE": "Die rechtliche Unabhängigkeit und Hoheitsgewalt eines Staates.",
+    "definitionTR": "Devletin bağımsızlığı ve egemen kamu gücü.",
+    "examples": [
+      {
+        "de": "Die Souveränität des Staates wird anerkannt.",
+        "tr": "Devletin egemenliği tanınıyor."
+      },
+      {
+        "de": "Souveränität ist völkerrechtlich geschützt.",
+        "tr": "Egemenlik uluslararası hukukça korunur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "immunitat",
+    "de": "die Immunität",
+    "tr": "bağışıklık; dokunulmazlık",
+    "article": "die",
+    "word": "Immunität",
+    "plural": null,
+    "type": "isim",
+    "category": "voelker",
+    "level": "C1",
+    "definitionDE": "Ein rechtlicher Schutz vor bestimmten staatlichen Maßnahmen oder Verfahren.",
+    "definitionTR": "Belirli devlet işlemlerinden veya yargılamalardan muafiyet sağlayan hukuki koruma.",
+    "examples": [
+      {
+        "de": "Die diplomatische Immunität ist begrenzt.",
+        "tr": "Diplomatik bağışıklık sınırlıdır."
+      },
+      {
+        "de": "Das Gericht prüft die Immunität.",
+        "tr": "Mahkeme bağışıklığı inceler."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "ehe",
+    "de": "die Ehe",
+    "tr": "evlilik",
+    "article": "die",
+    "word": "Ehe",
+    "plural": "Ehen",
+    "type": "isim",
+    "category": "familie",
+    "level": "A2",
+    "definitionDE": "Eine rechtlich anerkannte Lebensgemeinschaft von Ehegatten.",
+    "definitionTR": "Eşler arasında hukukça tanınan evlilik birliği.",
+    "examples": [
+      {
+        "de": "Die Ehe wird vor dem Standesamt geschlossen.",
+        "tr": "Evlilik nüfus memuru önünde gerçekleştirilir."
+      },
+      {
+        "de": "Die Ehe hat rechtliche Folgen.",
+        "tr": "Evliliğin hukuki sonuçları vardır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "scheidung",
+    "de": "die Scheidung",
+    "tr": "boşanma",
+    "article": "die",
+    "word": "Scheidung",
+    "plural": null,
+    "type": "isim",
+    "category": "familie",
+    "level": "B1",
+    "definitionDE": "Die gerichtliche Auflösung einer bestehenden Ehe.",
+    "definitionTR": "Mevcut evliliğin mahkeme kararıyla sona erdirilmesi.",
+    "examples": [
+      {
+        "de": "Die Ehegatten beantragen die Scheidung.",
+        "tr": "Eşler boşanma talep ediyor."
+      },
+      {
+        "de": "Das Gericht entscheidet über die Scheidung.",
+        "tr": "Mahkeme boşanmaya karar veriyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "sorgerecht",
+    "de": "das Sorgerecht",
+    "tr": "velayet; çocuğa ilişkin bakım ve karar yetkisi",
+    "article": "das",
+    "word": "Sorgerecht",
+    "plural": null,
+    "type": "isim",
+    "category": "familie",
+    "level": "B2",
+    "definitionDE": "Das Recht und die Pflicht zur elterlichen Sorge für ein Kind.",
+    "definitionTR": "Çocuğun bakım ve yetiştirilmesine ilişkin hak ve yükümlülükler bütünü.",
+    "examples": [
+      {
+        "de": "Die Eltern üben das Sorgerecht gemeinsam aus.",
+        "tr": "Ebeveynler velayeti birlikte kullanır."
+      },
+      {
+        "de": "Das Gericht entscheidet über das Sorgerecht.",
+        "tr": "Mahkeme velayet hakkında karar verir."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "unterhalt",
+    "de": "der Unterhalt",
+    "tr": "nafaka; bakım yükümlülüğü",
+    "article": "der",
+    "word": "Unterhalt",
+    "plural": null,
+    "type": "isim",
+    "category": "familie",
+    "level": "B2",
+    "definitionDE": "Eine gesetzliche Pflicht zur Sicherung des Lebensbedarfs einer anderen Person.",
+    "definitionTR": "Başka bir kişinin geçimi için öngörülen kanuni destek yükümlülüğü.",
+    "examples": [
+      {
+        "de": "Ein Elternteil zahlt Unterhalt.",
+        "tr": "Ebeveynlerden biri nafaka öder."
+      },
+      {
+        "de": "Der Unterhalt wird neu berechnet.",
+        "tr": "Nafaka yeniden hesaplanır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "erbschaft",
+    "de": "die Erbschaft",
+    "tr": "miras",
+    "article": "die",
+    "word": "Erbschaft",
+    "plural": null,
+    "type": "isim",
+    "category": "erbe",
+    "level": "B1",
+    "definitionDE": "Das Vermögen, das beim Tod auf Erben übergeht.",
+    "definitionTR": "Ölümle mirasçılara geçen malvarlığı.",
+    "examples": [
+      {
+        "de": "Die Erbschaft wird aufgeteilt.",
+        "tr": "Miras paylaştırılıyor."
+      },
+      {
+        "de": "Sie schlägt die Erbschaft aus.",
+        "tr": "Mirası reddediyor."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "erbe",
+    "de": "der Erbe",
+    "tr": "mirasçı",
+    "article": "der",
+    "word": "Erbe",
+    "plural": null,
+    "type": "isim",
+    "category": "erbe",
+    "level": "B1",
+    "definitionDE": "Eine Person, auf die die Erbschaft übergeht.",
+    "definitionTR": "Tereke üzerinde mirasçılık sıfatı kazanan kişi.",
+    "examples": [
+      {
+        "de": "Der Erbe erhält einen Anteil.",
+        "tr": "Mirasçı bir pay alır."
+      },
+      {
+        "de": "Mehrere Erben bilden eine Erbengemeinschaft.",
+        "tr": "Birden fazla mirasçı miras ortaklığı oluşturur."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "testament",
+    "de": "das Testament",
+    "tr": "vasiyetname",
+    "article": "das",
+    "word": "Testament",
+    "plural": "Testamente",
+    "type": "isim",
+    "category": "erbe",
+    "level": "B1",
+    "definitionDE": "Eine einseitige Verfügung von Todes wegen.",
+    "definitionTR": "Ölüme bağlı tek taraflı tasarruf.",
+    "examples": [
+      {
+        "de": "Der Erblasser verfasst ein Testament.",
+        "tr": "Mirasbırakan vasiyetname düzenler."
+      },
+      {
+        "de": "Das Testament wird eröffnet.",
+        "tr": "Vasiyetname açılır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "pflichtteil",
+    "de": "der Pflichtteil",
+    "tr": "saklı pay (Alman hukukunda)",
+    "article": "der",
+    "word": "Pflichtteil",
+    "plural": null,
+    "type": "isim",
+    "category": "erbe",
+    "level": "C1",
+    "definitionDE": "Ein gesetzlicher Mindestbeteiligungsanspruch bestimmter Angehöriger am Nachlass.",
+    "definitionTR": "Alman hukukunda belirli yakınlara tanınan asgari miras değeri talebi.",
+    "examples": [
+      {
+        "de": "Der Pflichtteil kann geltend gemacht werden.",
+        "tr": "Saklı pay talep edilebilir."
+      },
+      {
+        "de": "Die Höhe des Pflichtteils wird berechnet.",
+        "tr": "Saklı payın miktarı hesaplanır."
+      }
+    ],
+    "legal": true
+  },
+  {
+    "id": "universitat",
+    "de": "die Universität",
+    "tr": "üniversite",
+    "article": "die",
+    "word": "Universität",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "A1",
+    "definitionDE": "Eine Einrichtung für Studium, Lehre und Forschung.",
+    "definitionTR": "Yükseköğretim ve araştırma kurumu.",
+    "examples": [
+      {
+        "de": "Ich studiere an einer Universität.",
+        "tr": "Bir üniversitede okuyorum."
+      },
+      {
+        "de": "Die Universität bietet einen Sprachkurs an.",
+        "tr": "Üniversite bir dil kursu sunuyor."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "prufung",
+    "de": "die Prüfung",
+    "tr": "sınav",
+    "article": "die",
+    "word": "Prüfung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "A1",
+    "definitionDE": "Eine Überprüfung von Wissen oder Fähigkeiten.",
+    "definitionTR": "Bilgi veya becerilerin değerlendirildiği sınav.",
+    "examples": [
+      {
+        "de": "Die Prüfung beginnt um neun Uhr.",
+        "tr": "Sınav saat dokuzda başlıyor."
+      },
+      {
+        "de": "Sie hat die Prüfung bestanden.",
+        "tr": "Sınavı geçti."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "vorlesung",
+    "de": "die Vorlesung",
+    "tr": "ders; amfi dersi",
+    "article": "die",
+    "word": "Vorlesung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "A2",
+    "definitionDE": "Eine Lehrveranstaltung an einer Hochschule.",
+    "definitionTR": "Üniversitedeki teorik ders türü.",
+    "examples": [
+      {
+        "de": "Die Vorlesung findet am Montag statt.",
+        "tr": "Ders pazartesi günü yapılır."
+      },
+      {
+        "de": "Ich bereite mich auf die Vorlesung vor.",
+        "tr": "Derse hazırlanıyorum."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "antrag",
+    "de": "der Antrag",
+    "tr": "başvuru; talep dilekçesi",
+    "article": "der",
+    "word": "Antrag",
+    "plural": "Anträge",
+    "type": "isim",
+    "category": "general",
+    "level": "B1",
+    "definitionDE": "Eine formelle Bitte um eine Entscheidung oder Leistung.",
+    "definitionTR": "Resmî karar ya da işlem talebini içeren başvuru.",
+    "examples": [
+      {
+        "de": "Ich reiche einen Antrag ein.",
+        "tr": "Bir başvuru sunuyorum."
+      },
+      {
+        "de": "Der Antrag wurde genehmigt.",
+        "tr": "Başvuru onaylandı."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "voraussetzung",
+    "de": "die Voraussetzung",
+    "tr": "koşul; ön şart",
+    "article": "die",
+    "word": "Voraussetzung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B1",
+    "definitionDE": "Eine Bedingung, die erfüllt sein muss.",
+    "definitionTR": "Sağlanması gereken koşul.",
+    "examples": [
+      {
+        "de": "Die Voraussetzung ist erfüllt.",
+        "tr": "Koşul sağlanmıştır."
+      },
+      {
+        "de": "Welche Voraussetzungen gelten für die Prüfung?",
+        "tr": "Sınav için hangi şartlar geçerlidir?"
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "begrundung",
+    "de": "die Begründung",
+    "tr": "gerekçe",
+    "article": "die",
+    "word": "Begründung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B2",
+    "definitionDE": "Eine Erklärung der Gründe für eine Aussage oder Entscheidung.",
+    "definitionTR": "Bir görüş veya kararın nedenlerini açıklayan gerekçe.",
+    "examples": [
+      {
+        "de": "Bitte geben Sie eine Begründung an.",
+        "tr": "Lütfen bir gerekçe belirtin."
+      },
+      {
+        "de": "Die Begründung ist nachvollziehbar.",
+        "tr": "Gerekçe anlaşılır niteliktedir."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "auswirkung",
+    "de": "die Auswirkung",
+    "tr": "etki; sonuç",
+    "article": "die",
+    "word": "Auswirkung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B2",
+    "definitionDE": "Die Folge oder Wirkung eines Vorgangs.",
+    "definitionTR": "Bir olay veya işlemin etkisi.",
+    "examples": [
+      {
+        "de": "Die Änderung hat große Auswirkungen.",
+        "tr": "Değişikliğin büyük etkileri var."
+      },
+      {
+        "de": "Wir untersuchen die Auswirkungen des Gesetzes.",
+        "tr": "Kanunun etkilerini inceliyoruz."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "zusammenhang",
+    "de": "der Zusammenhang",
+    "tr": "bağlantı; ilişki; bağlam",
+    "article": "der",
+    "word": "Zusammenhang",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B2",
+    "definitionDE": "Eine erkennbare Verbindung zwischen Sachverhalten.",
+    "definitionTR": "Olgular arasındaki bağlantı veya bağlam.",
+    "examples": [
+      {
+        "de": "Der Zusammenhang ist wichtig.",
+        "tr": "Bağlam önemlidir."
+      },
+      {
+        "de": "Die Begriffe stehen in einem engen Zusammenhang.",
+        "tr": "Kavramlar yakın ilişki içindedir."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "berucksichtigen",
+    "de": "berücksichtigen",
+    "tr": "dikkate almak",
+    "article": "",
+    "word": "berücksichtigen",
+    "plural": null,
+    "type": "fiil",
+    "category": "general",
+    "level": "B2",
+    "definitionDE": "Etwas bei einer Beurteilung mit einbeziehen.",
+    "definitionTR": "Bir hususu değerlendirmeye dâhil etmek.",
+    "examples": [
+      {
+        "de": "Wir müssen alle Argumente berücksichtigen.",
+        "tr": "Bütün gerekçeleri dikkate almalıyız."
+      },
+      {
+        "de": "Das Gericht berücksichtigt den Einzelfall.",
+        "tr": "Mahkeme somut olayı dikkate alır."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "hinsichtlich",
+    "de": "hinsichtlich",
+    "tr": "bakımından; konusunda",
+    "article": "",
+    "word": "hinsichtlich",
+    "plural": null,
+    "type": "bağlaç / zarf",
+    "category": "general",
+    "level": "C1",
+    "definitionDE": "In Bezug auf einen bestimmten Aspekt.",
+    "definitionTR": "Belirli bir yön veya konuya ilişkin olarak.",
+    "examples": [
+      {
+        "de": "Hinsichtlich der Kosten gibt es Fragen.",
+        "tr": "Masraflar bakımından sorular var."
+      },
+      {
+        "de": "Hinsichtlich des Ergebnisses besteht Einigkeit.",
+        "tr": "Sonuç konusunda görüş birliği vardır."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "sofern",
+    "de": "sofern",
+    "tr": "şayet; olması hâlinde",
+    "article": "",
+    "word": "sofern",
+    "plural": null,
+    "type": "fiil",
+    "category": "general",
+    "level": "C1",
+    "definitionDE": "Unter der Bedingung, dass etwas gilt.",
+    "definitionTR": "Bir koşulun gerçekleşmesi hâlinde.",
+    "examples": [
+      {
+        "de": "Die Regel gilt, sofern nichts anderes vereinbart ist.",
+        "tr": "Aksi kararlaştırılmadıkça kural geçerlidir."
+      },
+      {
+        "de": "Sofern möglich, antworten Sie schriftlich.",
+        "tr": "Mümkünse yazılı cevap verin."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "jedoch",
+    "de": "jedoch",
+    "tr": "ancak; bununla birlikte",
+    "article": "",
+    "word": "jedoch",
+    "plural": null,
+    "type": "bağlaç / zarf",
+    "category": "general",
+    "level": "B1",
+    "definitionDE": "Ein Adverb, das einen Gegensatz ausdrückt.",
+    "definitionTR": "Karşıtlık bildiren bağlaç görevli zarf.",
+    "examples": [
+      {
+        "de": "Der Vertrag gilt, jedoch nur bis Dezember.",
+        "tr": "Sözleşme geçerlidir, ancak yalnızca aralığa kadar."
+      },
+      {
+        "de": "Sie wollte kommen, jedoch war sie krank.",
+        "tr": "Gelmek istiyordu, ancak hastaydı."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "mitteilung",
+    "de": "die Mitteilung",
+    "tr": "bildirim; bilgi verme",
+    "article": "die",
+    "word": "Mitteilung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B1",
+    "definitionDE": "Eine schriftliche oder mündliche Information.",
+    "definitionTR": "Yazılı veya sözlü bilgilendirme.",
+    "examples": [
+      {
+        "de": "Ich habe Ihre Mitteilung erhalten.",
+        "tr": "Bildiriminizi aldım."
+      },
+      {
+        "de": "Die Mitteilung erfolgt per E-Mail.",
+        "tr": "Bildirim e-posta ile yapılır."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "fristverlangerung",
+    "de": "die Fristverlängerung",
+    "tr": "süre uzatımı",
+    "article": "die",
+    "word": "Fristverlängerung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B2",
+    "definitionDE": "Die Verlängerung eines festgelegten Zeitraums.",
+    "definitionTR": "Belirlenmiş sürenin uzatılması.",
+    "examples": [
+      {
+        "de": "Ich beantrage eine Fristverlängerung.",
+        "tr": "Süre uzatımı talep ediyorum."
+      },
+      {
+        "de": "Die Fristverlängerung wurde bewilligt.",
+        "tr": "Süre uzatımı kabul edildi."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "zusammenfassung",
+    "de": "die Zusammenfassung",
+    "tr": "özet",
+    "article": "die",
+    "word": "Zusammenfassung",
+    "plural": null,
+    "type": "isim",
+    "category": "general",
+    "level": "B1",
+    "definitionDE": "Eine kurze Wiedergabe wesentlicher Inhalte.",
+    "definitionTR": "Temel içeriğin kısa sunumu.",
+    "examples": [
+      {
+        "de": "Schreiben Sie eine Zusammenfassung.",
+        "tr": "Bir özet yazın."
+      },
+      {
+        "de": "Die Zusammenfassung enthält die Hauptargumente.",
+        "tr": "Özet temel gerekçeleri içeriyor."
+      }
+    ],
+    "legal": false
+  },
+  {
+    "id": "beantragen",
+    "de": "beantragen",
+    "tr": "başvurmak; talep etmek",
+    "article": "",
+    "word": "beantragen",
+    "plural": null,
+    "type": "fiil",
+    "category": "general",
+    "level": "B1",
+    "definitionDE": "Eine Entscheidung oder Leistung formell erbitten.",
+    "definitionTR": "Bir karar veya işlem için resmî talepte bulunmak.",
+    "examples": [
+      {
+        "de": "Ich möchte ein Stipendium beantragen.",
+        "tr": "Bir burs için başvurmak istiyorum."
+      },
+      {
+        "de": "Die Partei kann Akteneinsicht beantragen.",
+        "tr": "Taraf dosya incelemesi talep edebilir."
+      }
+    ],
+    "legal": false
+  }
+]
